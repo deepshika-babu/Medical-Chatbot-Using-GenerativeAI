@@ -1,4 +1,4 @@
-# Medical-Chatbot-Using-Generative-AI
+# Medical-Chatbot-Using-Generative-AI 🩺
 This application leverages the power of artificial intelligence to provide users with general health-related information and assistance. ***It is not a substitute for professional medical advice, diagnosis, or treatment.***
 
 # Tech Stack
@@ -15,6 +15,8 @@ The project is built using the following technologies:
 - **Semantic search:** Powered by Pinecone for efficient and relevant information retrieval.
 - **Conversational AI:** Natural and context-aware responses enabled by GPT and LangChain.
 
+# How the MediBot Looks
+![Chatbot Screenshot](https://github.com/user-attachments/assets/c5f396ad-6214-4610-83ea-a23c76400fd2) ![Chatbot Screenshot](https://github.com/user-attachments/assets/80ed1b82-3e68-4358-9393-981b145888bc)
 
 # How to run?
 
